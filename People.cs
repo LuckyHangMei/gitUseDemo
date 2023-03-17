@@ -36,4 +36,9 @@ namespace MyAllTestDemo
         public string Code { get; set; }
         public List<string> Address { get; set; }
     }
+	
+	public class gitTest
+	{
+		public string text{get;set;}
+	}
 }
