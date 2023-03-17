@@ -25,10 +25,11 @@ namespace MyAllTestDemo
         public string RoomName { get; set; }
         public int RoomNo { get; set; }
     }
-    public class FocusTagValue
+    public class FocusTagValue23
     {
         public string Tag { get; set; }
         public double[][] Value { get; set; }
+		public int IndexNo{get;set;}
     }
 
     public class VarList
