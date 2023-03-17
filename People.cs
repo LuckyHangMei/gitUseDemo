@@ -15,7 +15,7 @@ namespace MyAllTestDemo
     }
     public class PeopleChild : People
     {
-        public int Height { get; set; }
+        public int Height12 { get; set; }
         public int StudentNo { get; set; }
     }
 
