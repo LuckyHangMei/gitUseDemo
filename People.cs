@@ -37,4 +37,10 @@ namespace MyAllTestDemo
         public string Code { get; set; }
         public List<string> Address { get; set; }
     }
+	//基于某一个tag的修改
+	public class TagCurrent
+	{
+		public string CurrentCode { get; set; }
+        public List<string> CurrentValue { get; set; }
+	}
 }
