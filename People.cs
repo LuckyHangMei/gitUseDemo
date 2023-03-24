@@ -37,4 +37,11 @@ namespace MyAllTestDemo
         public string Code { get; set; }
         public List<string> Address { get; set; }
     }
+	
+	//这是我打完tag后的修改
+	public class TagOld
+	{
+          public string tagold1{get;set;}	
+public double field{get;set;}		  
+	}
 }
